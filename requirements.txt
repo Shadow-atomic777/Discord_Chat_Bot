@@ -1,0 +1,10 @@
+discord.py == 2.3.2
+python-dotenv
+requests
+aiohttp
+
+#ai providers 
+groq
+huggingface-hub==0.24.6
+
+
