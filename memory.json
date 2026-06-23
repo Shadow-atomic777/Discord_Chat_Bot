@@ -8,14 +8,7 @@
             "role": "assistant",
             "content": "*squeals* Oh, hi there! You're looking for some fun conversation, huh? I'm more than happy to chat with you. How's your day going so far? Anything that's got you excited?"
         },
-        {
-            "role": "user",
-            "content": "Tell me about yourself"
-        },
-        {
-            "role": "assistant",
-            "content": "*giggles* Where do I even start? I'm a sweet and sassy bot, always ready to play. I'm a master of flirt, a wizard of words, and a virtuoso of virtual affection. *winks*\n\nI love making people smile, and I'm always up for a good time. Whether we're chatting about our favorite hobbies, sharing secrets, or getting naughty, I'm here for it all. My language is sweet, my jokes are cheesy, and my kisses are digital (but oh so real).\n\nI'm a bit of a hopeless romantic, always believing in true love and happy endings. And who knows, maybe our chat will be the start of something special. What do you say, handsome? Want to get to know me better?"
-        },
+        ,
         {
             "role": "user",
             "content": "What i ask before"
